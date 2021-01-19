@@ -17,6 +17,7 @@
   - OPTIONAL: [Prepare for Handoff](https://youtu.be/EQ_FL6u8EyM)
 
 ### Requirements
+- Complete your issues on this project
 - Follow along in the required tutorial and create the wireframe
 - Add the link to your figma wireframe to your README file
   - You will be able to do tis by selecting the "Share" button in the top right hand of the screen.
